@@ -1,7 +1,9 @@
 # 💫 About Me:
-Software Engineer with strong hands-on experience in backend development, clean code practices,
-system integration, and microservices architecture. Passionate about writing efficient, scalable, and
-maintainable code, while continuously learning and applying modern development techniques.
+Software Engineer focused on backend development and full-stack web applications.
+I work on designing and building clean, maintainable backend systems, with a strong focus on API design, system architecture, and integration.
+I have practical experience working with frontend applications using JavaScript and React, mainly around API consumption and data flow between frontend and backend.
+I enjoy building real-world systems, improving backend architecture, and continuously learning how to design scalable and maintainable applications.
+
 ## 💻 Tech Stack:
 
 ### 🧠 Backend
